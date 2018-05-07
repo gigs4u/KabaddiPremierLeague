@@ -18,7 +18,7 @@ Build a RESTful service that generates the round robin schedule for the PRO-Kaba
 	java -jar kabaddiPremierLeague-0.0.1-SNAPSHOT.jar
 
 - Open browser and type this URL to see Greetings REST services exposed : http://localhost:8080/?name=Paresh
-
+Prerequisite Java 1.8 & Maven/Eclipse
 # Step-2: Create a League 
 Open browser Type the below URL to Create a PreamierLeague
 
